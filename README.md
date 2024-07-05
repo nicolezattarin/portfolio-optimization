@@ -38,4 +38,4 @@ Given a fixed number of asset per portfolio, optimization is performed by the Po
 
 an example of possible result is the following:
 
-<img src="es_stocks.png" width="500">
+<img src="es_stocks.png" width="700">
