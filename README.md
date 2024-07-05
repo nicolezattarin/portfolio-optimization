@@ -30,3 +30,12 @@ tickers = ['NVDA', 'TSLA', 'SIRI', 'NIO', 'RIVN', 'AAPL', 'PARA', 'LCID',
 ```
 
 Weights are optimized to minimize the portfolio variance and maximize the return.
+
+## Optimization
+Given a fixed number of asset per portfolio, optimization is performed by the Portfolio class, which works in two steps:
+1. For all the possible combinations of assets, the Portfolio class calculates the optimal weights that minimize the portfolio variance while maximizing the return.
+2. The Portfolio class returns all portfolios, sorted by the different metrics, such as the Sharpe ratio, return, volatility and correlation.
+
+an example of possible result is the following:
+
+<img src="es_stocks.png" width="500">
