@@ -36,6 +36,8 @@ Given a fixed number of asset per portfolio, optimization is performed by the Po
 1. For all the possible combinations of assets, the Portfolio class calculates the optimal weights that minimize the portfolio variance while maximizing the return.
 2. The Portfolio class returns all portfolios, sorted by the different metrics, such as the Sharpe ratio, return, volatility and correlation.
 
-an example of possible result is the following:
+An example of possible output is the following:
+<img src="imgs/portfolios.png" width="900">
 
-<img src="es_stocks.png" width="700">
+Which can be represented in a scatter plot:
+<img src="imgs/es_stocks.png" width="700">
