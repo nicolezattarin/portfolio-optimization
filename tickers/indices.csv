@@ -1,0 +1,42 @@
+ticker,name,instrument_type
+^GSPC,S&P 500,index
+^DJI,Dow Jones Industrial Average,index
+^IXIC,NASDAQ Composite,index
+^NYA,NYSE COMPOSITE (DJ),index
+^XAX,NYSE AMEX COMPOSITE INDEX,index
+^BUK100P,Cboe UK 100,index
+^RUT,Russell 2000,index
+^VIX,CBOE Volatility Index,index
+^FTSE,FTSE 100,index
+^GDAXI,DAX PERFORMANCE-INDEX,index
+^FCHI,CAC 40,index
+^STOXX50E,ESTX 50 PR.EUR,index
+^N100,Euronext 100 Index,index
+^BFX,BEL 20,index
+MOEX.ME,Public Joint-Stock Company Moscow Exchange MICEX-RTS,index
+^HSI,HANG SENG INDEX,index
+^STI,STI Index,index
+^AXJO,S&P/ASX 200,index
+^AORD,ALL ORDINARIES,index
+^BSESN,S&P BSE SENSEX,index
+^JKSE,IDX COMPOSITE,index
+^KLSE,FTSE Bursa Malaysia KLCI,index
+^NZ50,S&P/NZX 50 INDEX GROSS ( GROSS,index
+^KS11,KOSPI Composite Index,index
+^TWII,TSEC weighted index,index
+^GSPTSE,S&P/TSX Composite index,index
+^BVSP,IBOVESPA,index
+^MXX,IPC MEXICO,index
+^IPSA,S&P IPSA,index
+^MERV,MERVAL,index
+^TA125.TA,TA-125,index
+^CASE30,EGX 30 Price Return Index,index
+^JN0U.JO,Top 40 USD Net TRI Index,index
+DX-Y.NYB,US Dollar Index,index
+^125904-USD-STRD,MSCI EUROPE,index
+^XDB,British Pound Currency Index,index
+^XDE,Euro Currency Index,index
+000001.SS,SSE Composite Index,index
+^N225,Nikkei 225,index
+^XDN,Japanese Yen Currency Index,index
+^XDA,Australian Dollar Currency Index,index

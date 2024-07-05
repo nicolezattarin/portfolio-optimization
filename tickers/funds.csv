@@ -1,0 +1,25 @@
+ticker,name,instrument_type
+FTPAX,First Trust Private Assets Fund,fund
+GHVIX,GMO High Yield VI,fund
+GMOZX,GMO High Yield I,fund
+UGPSX,ProFunds UltraChina,fund
+UGPIX,ProFunds UltraChina,fund
+PMPSX,ProFunds Precious Metals UltraSector Svc,fund
+PMPIX,ProFunds Precious Metals UltraSector Inv,fund
+SMPIX,ProFunds Semiconductor UltraSector Inv,fund
+SMPSX,ProFunds Semiconductor UltraSector Svc,fund
+RYZCX,Rydex Precious Metals C,fund
+RYMPX,Rydex Precious Metals H,fund
+RYMNX,Rydex Precious Metals A,fund
+RYPMX,Rydex Precious Metals Inv,fund
+MIDSX,Midas,fund
+OCMAX,OCM Gold Atlas,fund
+OCMGX,OCM Gold Investor,fund
+FGDAX,Fidelity Advisor Gold A,fund
+FGDIX,Fidelity Advisor Gold I,fund
+FIJDX,Fidelity Advisor Gold Z,fund
+OGMCX,Invesco Gold & Special Minerals C,fund
+FGDTX,Fidelity Advisor Gold M,fund
+FGDCX,Fidelity Advisor Gold C,fund
+OPGSX,Invesco Gold & Special Minerals A,fund
+OGMIX,Invesco Gold & Special Minerals R6,fund
