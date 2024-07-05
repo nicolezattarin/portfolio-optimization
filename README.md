@@ -1,4 +1,4 @@
-# portfolio_theory_optimization
+# Portfolio Otimization
  
 Example of portfolio optimization using daily data and the Sharpe ratio. 
 
