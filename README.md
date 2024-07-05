@@ -39,5 +39,6 @@ Given a fixed number of asset per portfolio, optimization is performed by the Po
 An example of possible output is the following:
 <img src="imgs/portfolios.png" width="900">
 
-Which can be represented in a scatter plot:
+Which can be represented as follows, where the x-axis represents the volatility and the y-axis the return:
 <img src="imgs/es_stocks.png" width="700">
+Each point represents a portfolio, where the color represents the correlation between the assets in the portfolio.
